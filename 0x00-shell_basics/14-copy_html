@@ -1,0 +1,2 @@
+#!/bin/bash
+cp my_file.html my_file2.html my_file3.html /new_directory
